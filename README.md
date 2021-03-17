@@ -1,4 +1,4 @@
-# Hi!
+# Hi! 😄
 Meu nome Gabriel Medeiros(🇧🇷), atualmente sou um Estudante de Análise e Desenvolvimento de Sistemas.
 Estou querendo seguir a carreira de Desenvolvedor Front End Web, pois gosto de projetar, construir e otimizar as interfaces de um projeto Web.
 
