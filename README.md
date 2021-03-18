@@ -13,8 +13,10 @@ Estou querendo seguir a carreira de Desenvolvedor Front End Web, pois gosto de p
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMedeiross&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+## ⚡ GitHub Stats
 
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=GabrielMedeiross&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMedeiross&hide=TeX&layout=compact)
