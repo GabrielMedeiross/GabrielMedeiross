@@ -18,5 +18,4 @@ Estou querendo seguir a carreira de Desenvolvedor Front End Web, pois gosto de p
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=GabrielMedeiross&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMedeiross&hide=TeX&layout=compact)
